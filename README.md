@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fawzy</h1>
-<h3 align="center">A frontend developer and mobile developer Flutter from Egypt</h3>
+<h3 align="center">A frontend developer using React.js</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning full stack developer **React.js**
+- 🌱 I’m currently working on my project and work as a freelancer
 
 - 📫 How to reach me linkedin **https://www.linkedin.com/in/mohammed-fawzy-6614b9170/**
 
